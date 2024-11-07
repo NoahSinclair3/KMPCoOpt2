@@ -1,0 +1,11 @@
+abi_version=1.8.0
+builtins_platform=WASM
+compiler_version=2.0.0
+depends=kotlin
+ir_signature_versions=1,2
+jsOutputName=KMPCoOpt-shared-wasm-js
+metadata_version=1.4.1
+serializedIrFileFingerprints=2s07prwxd7avu.16ormq3srz7k8 vt2z45l5fthh.35zpl4wenzggc 1ic92xxz18anc.2z62tnwei6wm0
+serializedKlibFingerprint=1zwq8g6uky6ir.2axqp575g2q1y
+unique_name=KMPCoOpt\:shared
+wasm_targets=wasm-js

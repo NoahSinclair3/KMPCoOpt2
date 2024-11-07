@@ -1,0 +1,13 @@
+{
+  "name": "KMPCoOpt-shared-wasm-js",
+  "version": "0.0.0-unspecified",
+  "main": "KMPCoOpt-shared-wasm-js.mjs",
+  "types": "KMPCoOpt-shared-wasm-js.d.ts",
+  "devDependencies": {},
+  "dependencies": {
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
